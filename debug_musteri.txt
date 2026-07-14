@@ -1,0 +1,27 @@
+Array
+(
+    [0] => Array
+        (
+            [firma_ad] => devnak
+            [musteri_id] => 9
+            [musteri_ad] => ismail
+            [musteri_soyad] => tekin
+            [telefon] => 5321111111
+            [email] => eneser34@gmail.com
+            [sube_ad] => merkez
+            [tur_adlar] => Donanım-Uzaktan, Donanım-Yerinde, Eta
+        )
+
+    [1] => Array
+        (
+            [firma_ad] => Yurtiçi Kargo
+            [musteri_id] => 10
+            [musteri_ad] => ismail
+            [musteri_soyad] => er
+            [telefon] => 5324563243
+            [email] => imusaer@gmail.com
+            [sube_ad] => Karabağlar Şubesi
+            [tur_adlar] => Donanım-Uzaktan
+        )
+
+)

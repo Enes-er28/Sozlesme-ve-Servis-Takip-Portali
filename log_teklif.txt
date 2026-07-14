@@ -1,0 +1,14 @@
+Array
+(
+    [save_teklif] => 1
+    [abonelik_id] => 21
+    [firma_id] => 14
+    [marka_id] => 1
+    [model_id] => 6
+    [abonelik_baslangic_tarihi] => 2025-07-02
+    [abonelik_bitis_tarihi] => 2025-07-24
+    [abonelik_fiyat] => 302020.00
+    [hizmet_baslangic_tarihi] => 
+    [hizmet_bitis_tarihi] => 
+    [hizmet_fiyat] => 
+)

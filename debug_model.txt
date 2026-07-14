@@ -1,0 +1,13 @@
+Array
+(
+    [0] => Array
+        (
+            [model_ad] => AntiVirüs 3 Kullanıcı 1 Yıl uzun süre
+        )
+
+    [1] => Array
+        (
+            [model_ad] => Genel Destek Servis Anlaşması
+        )
+
+)
